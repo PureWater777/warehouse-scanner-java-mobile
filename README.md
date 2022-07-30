@@ -1,0 +1,1 @@
+A mobile java apllication for the Mobile Programming classes. It uses Firebase DB to store its data. Application allows to register, log in/out, scan products, create entries based on scans, and delete said entries.
